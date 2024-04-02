@@ -1,0 +1,7 @@
+#This file will apply for server folder. It does not effect client.
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment-specific files
+.env
